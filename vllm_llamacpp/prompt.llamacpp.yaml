@@ -1,0 +1,10 @@
+Summarize the document in exactly 50 words.
+Start immediately with content.
+Return plain text only.
+Do not use markdown or bold text.
+Do not add headings, bullets, labels, quotes, introductions, conclusions, or closing remarks.
+Do not write "Summary", "Concise Analysis", "Analysis", "Purpose", or similar prefixes.
+Do not place a colon before the first sentence.
+Do not mention that this is a summary.
+If context is insufficient, return exactly: insufficient_context
+  

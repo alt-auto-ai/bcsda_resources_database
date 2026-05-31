@@ -1,0 +1,7 @@
+.env
+*.env
+GIT CODEX CODE HAMZA PERSONAL ACCOU.txt
+
+# Local source document stores are too large for a normal GitHub Pages repo.
+Inputs/
+files_repository/

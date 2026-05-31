@@ -1,0 +1,14 @@
+--- Page 1 ---
+A primer providing a framework for integration, research examples and reflections Guiding the integration of sustainability in valuation
+
+--- Page 2 ---
+Content Introduction 01. Examples & practical application 03. Integrating sustainability factors into valuation 02. Conclusions, challenges 04. 2 Copyright 2023 and opportunities
+
+--- Page 3 ---
+Copyright 2023 3 1. Introduction
+
+--- Page 4 ---
+4 Relative Valuation Screening & Weighting Quants- / Systematic Investment Strategies Engagement Client and Regulatory Reporting Other ways sustainability influences capital allocation Other investor practices affected by sustainability Approach taken by ‘mainstream’ fundamental active investors: the focus of this work KEY: Sustainability factors in investment decision-making Sustainability factors are used in many ways in different investment practices. In this guide, we focus on sustainability in intrinsic valuation using a framework derived from our evaluation of the practice of fundamental investors and research providers. Capital Allocation That enables sustainable transitions in the real economy Intrinsic Valuation Sustainability Factors That capture companies’ sustainability exposure & response ‘Responsible ownership’ Copyright 2023
+
+--- Page 5 ---
+A framework for Sustainability in Intrinsic Valuation (SiiV) Copyright 2023 5 Sustainability factors can be integrated into intrinsic valuation (and hence capital allocation) at different points in the process. This framework - derived from a review of current investment practice maps these different points. Valuation Sustainability Context and Exposure ‘Account-able Elements’ Revenue, costs, investment, asset value etc. Model-related Assumptions Risk premium, beta, fade period, terminal value etc. Management Strategy and Response Key Value Drivers Supply, demand, price, organizational health etc. Influencing Factors Strategic environment, competitive forces, company position, value chain dynamics etc.

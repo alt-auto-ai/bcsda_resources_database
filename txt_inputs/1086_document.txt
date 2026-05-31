@@ -1,0 +1,14 @@
+--- Page 1 ---
+Po o o we r ower r ing ring a L b b Lo Lo o w-c a ow-ca a r b o arbo n n Eco no m nom my m y y
+
+--- Page 2 ---
+2
+
+--- Page 3 ---
+1 Contents End-use energy efficiency 4 Hydropower 7 Non-hydro renewables 10 Nuclear power 13 Natural gas 16 Generation efficiency 18 Advanced coal technologies 21 Carbon capture and storage 23 Transmission and distribution 28 Notes and references 31
+
+--- Page 4 ---
+2 In order to address the global climate change challenge, the electricity sector recognizes the need for more efficient electricity consumption and less carbon-intensive electricity supply. This shift will require the use of all technology and energy use management options available today, as well as those future solutions that currently face technological or commercial barriers to deployment. This document has been developed as part of the WBCSD Electric Utilities Sector report, Power to Change : A business contribution to a low-carbon electricity future . This part of the report focuses on policies and measures for nine key energy technology solutions : 1 • End-use energy efficiency • Hydropower • Non-hydro renewables • Nuclear power • Natural gas • Generation efficiency • Advanced coal technologies • Carbon capture and storage • Transmission and distribution To illustrate our analysis, we refer to the International Energy Agency ACT Map and BLUE Map scenarios. 2 For each technology and measure, we provide a focus on the following issues : • The wedge potential • How this wedge contributes to emissions reductions • Technology status • Challenges that prevent the technology from meeting its potential • Policy measures Introduction
+
+--- Page 5 ---
+3 FIGURE 1 CO 2 reduction within the power generation sector by contributing factor based on ACT Map and BLUE Map scenarios 20 18 16 14 12 10 8 6 4 2 0 GtCO 2 reduction to 2050 BLUE Map ACT Map Generation efficiency Generation efficiency Solar Solar Wind Wind Biomass & Geothermal Biomass & Geothermal Nuclear power Nuclear power CCS CCS Natural gas Natural gas Advanced coal Advanced coal Hydropower Hydropower 3

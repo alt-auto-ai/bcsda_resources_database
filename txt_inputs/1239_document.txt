@@ -1,0 +1,14 @@
+--- Page 1 ---
+WBCSD Maison de la Paix, Chemin Eugène-Rigot 2, CP 246 1211 Geneva 21, Switzerland Phone: + 41 (0)22 8393131, E-mail: info@wbcsd.org, Web.: www.wbcsd.org
+
+--- Page 2 ---
+Methodology and indicator calculation method for World Business Council for Sustainable Development Sustainable Mobility Project 2.0 (SMP2.0) Indicators Work Stream - 2ndEdition sustainable urban mobility
+
+--- Page 3 ---
+Preface The Indicators Work Stream (WS2) of the Sustainable Mobility Project 2.0 (SMP2.0) within the World Business Council for Sustainable Development (WBCSD) commissioned Oran Consulting to work with WS2 to define a set of indicators measuring the potential for sustainable mobility in cities. The application of these was verified with 6 pilot cities during the SMP2.0 process. The indicator set is a tool for cities to evaluate the current situation of the mobility system, understand the evolution of the system over time and to evaluate the potential impact of selected solutions, for example those from the SMP2.0 solution toolbox. 1
+
+--- Page 4 ---
+Each indicator represents an aspect of mobility and is often interconnected with other indicators from the set. For instance, affordability and public finance are closely linked and so are congestion, travel time and air pollution. Holistically optimized solutions can be obtained while considering the interconnections: solutions might improve several related indicators in parallel. At best, all indicators should be calculated (or, at a minimum, estimated) as this will enable holistic understanding of the current situation and lead to a robust decision making process. In addition to the main calculation methodologies SMP2.0 indicators set proposes alternatives methodologies to offer flexibility to match available data sets and city needs. Although the indicators are not designed to compare the performances in sustainable mobility between cities, cities might use the indicator set to understand where they sit within the global scale and identify where they can further improve their local situation. 2
+
+--- Page 5 ---
+IV Overview of the indicators VI Notes applied to all indicators III ANNEX II ANNEXIII ANNEX I Dimensions of sustainable urban mobility WBCSD-SMP 2.0 topic presentation WBCSD-SMP 2.0 survey questions WBCSD-SMP2.0 additional urban mobility parameters VIII Methodology for the 19 WBCSD-SMP2.0 Indicators V Systems approach and indicator categories VII General Methodology I Introduction II Why work with indicators

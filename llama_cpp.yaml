@@ -1,0 +1,31 @@
+# Prompt template for vllm_llamacpp/generate_llamacpp_from_csv.js
+# Available placeholders:
+# - {{file_name}}
+# - {{file_content}}
+
+system_prompt: |
+  You are an assistant that follows instructions exactly.
+  Output plain text only.
+  Never use markdown, bold text, headings, labels, prefixes, or list formatting.
+  If you cannot produce a compliant output, return exactly: insufficient_context
+
+prompt: |
+  Write exactly 50 words summarizing the document content.
+  Start directly with summary content as the first word.
+  Output one plain-text paragraph only.
+  Do not include any label or preface such as "Summary", "Concise Analysis", "Analysis", or "Purpose".
+  Do not include colons before the first sentence.
+  Do not include markdown symbols such as "*", "#", "_", or backticks.
+  If context is insufficient, return exactly: insufficient_context
+
+  Document name:
+  {{file_name}}
+
+  Document content:
+  {{file_content}}
+
+  Return only the summary text.
+
+output_column: llama_cpp_response
+temperature: 0.2
+max_tokens: 700

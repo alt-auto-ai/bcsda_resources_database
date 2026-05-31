@@ -1,0 +1,1 @@
+What type of document is this based on its content? Just return a type category in English, for example, 'Report', 'White Paper', 'Presentation', etc. Do not provide any additional information. In case where context is not sufficient to determine the type, return 'Unknown'.
